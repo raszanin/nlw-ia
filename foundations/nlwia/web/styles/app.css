@@ -9,13 +9,9 @@
   color: #996dff;
 }
 
-#app > img {
-  width: 64px;
-}
-
 #app > h2 {
   align-self: flex-start;
-  margin-top: 104px;
+  margin-top: 64px;
 }
 
 #app > p {
@@ -28,5 +24,5 @@
   color: #7c7c8a;
   user-select: none;
 
-  margin-top: 50px;
+  margin-top: 20px;
 }
