@@ -12,6 +12,7 @@
 #app > h2 {
   align-self: flex-start;
   margin-top: 64px;
+  margin-bottom: 20px;
 }
 
 #app > p {
@@ -23,6 +24,4 @@
 #app .placeholder {
   color: #7c7c8a;
   user-select: none;
-
-  margin-top: 20px;
 }
